@@ -14,6 +14,6 @@ Task 4: Try out something new! (e.g., data augmentation, transformer-based appro
 Report on efforts and findings - RAship_Report
 
 Code:
-Due to size constraints, couldn't upload the model files for Task 2 and Task 3. Downloaded them from the link: [Model files](https://drive.google.com/drive/folders/1dboictJSGAbb7X5R2IAAzUx77aw7kQdW?usp=sharing)
+Due to size constraints, couldn't upload the model files for Task 2 and Task 3. Download them using the link: [Model files](https://drive.google.com/drive/folders/1dboictJSGAbb7X5R2IAAzUx77aw7kQdW?usp=sharing)
 
 Run ChartClassification.ipynb to reproduce results for all the tasks mentioned above.
