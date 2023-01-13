@@ -1,4 +1,4 @@
-# Round1-ChartClassification
+# ChartClassification
 
 Problem statement: To develop a CNN-based classification architecture for classifying a given chart image to one of five chart classes, namely “Line”,“Dot Line”,“Horizontal Bar”, and “Vertical Bar”, and “Pie” chart.
 
@@ -10,8 +10,7 @@ Task 3: Finetune a pretrained network (e.g., AlexNet) for this task and report t
 
 Task 4: Try out something new! (e.g., data augmentation, transformer-based approach, detection-type approach, GradCam, ablations, or anything you feel)
 
-## Submission:
-Report on efforts and findings - RAship_Report
+Report on efforts and findings - Report.pdf
 
 Code:
 Due to size constraints, couldn't upload the model files for Task 2 and Task 3. Download them using the link: [Model files](https://drive.google.com/drive/folders/1dboictJSGAbb7X5R2IAAzUx77aw7kQdW?usp=sharing)
